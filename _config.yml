@@ -102,22 +102,22 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:moderatoc@gmail.com"
+       url: "mailto:moderatoc@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://moderatoc.github.io"
+       url: "https://moderatoc.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/junsungkim228"
+       url: "https://facebook.com/junsungkim228"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/moderatoc"
+       url: "https://github.com/moderatoc"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/maybymarshall"
+       url: "https://instagram.com/maybymarshall"
 
 # Site Footer
 footer:
